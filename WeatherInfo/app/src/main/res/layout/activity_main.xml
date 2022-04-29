@@ -345,6 +345,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Yash Richhariya"
+                        android:textAlignment="center"
                         android:textColor="#FFFFFF"
                         android:textSize="13.5dp"
                         android:textStyle="bold" />
