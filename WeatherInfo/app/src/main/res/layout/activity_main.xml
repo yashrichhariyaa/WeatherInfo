@@ -4,8 +4,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/gradient_bg"
+    android:elevation="3dp"
     android:orientation="vertical"
-    android:padding="25dp">
+    android:padding="20dp">
 
     <RelativeLayout
         android:id="@+id/mainContainer"
@@ -110,6 +111,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:background="#3CF1EBF1"
+                    android:elevation="3dp"
                     android:gravity="center"
                     android:orientation="vertical"
                     android:padding="8dp">
@@ -149,6 +151,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:background="#3CF1EBF1"
+                    android:elevation="3dp"
                     android:gravity="center"
                     android:orientation="vertical"
                     android:padding="8dp">
@@ -188,6 +191,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:background="#3CF1EBF1"
+                    android:elevation="3dp"
                     android:gravity="center"
                     android:orientation="vertical"
                     android:padding="8dp">
@@ -234,6 +238,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:background="#3CF1EBF1"
+                    android:elevation="3dp"
                     android:gravity="center"
                     android:orientation="vertical"
                     android:padding="8dp">
@@ -273,6 +278,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:background="#3CF1EBF1"
+                    android:elevation="3dp"
                     android:gravity="center"
                     android:orientation="vertical"
                     android:padding="8dp">
@@ -312,6 +318,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:background="#3CF1EBF1"
+                    android:elevation="3dp"
                     android:gravity="center"
                     android:orientation="vertical"
                     android:padding="8dp">
@@ -337,10 +344,10 @@
                         android:id="@+id/about"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Yash R"
-                        android:textStyle="bold"
+                        android:text="Yash Richhariya"
                         android:textColor="#FFFFFF"
-                        android:textSize="14dp" />
+                        android:textSize="13.5dp"
+                        android:textStyle="bold" />
                 </LinearLayout>
             </LinearLayout>
         </LinearLayout>
